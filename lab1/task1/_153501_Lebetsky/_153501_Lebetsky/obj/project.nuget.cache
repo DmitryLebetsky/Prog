@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Op68FX/on47DU93hsbcQubcW5fAHJaIePeuEL2lfSlPMSro+yq7efd/Ntwt139NJwqV0th+hA/RBivwMD9+hHA==",
+  "success": true,
+  "projectFilePath": "D:\\Учёба\\Prog\\lab1\\task1\\_153501_Lebetsky\\_153501_Lebetsky\\_153501_Lebetsky.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\demetron\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\demetron\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
