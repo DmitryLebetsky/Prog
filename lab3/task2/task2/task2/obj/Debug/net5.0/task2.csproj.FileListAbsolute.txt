@@ -1,0 +1,16 @@
+D:\Учёба\Prog\lab3\task2\task2\task2\bin\Debug\net5.0\task2.exe
+D:\Учёба\Prog\lab3\task2\task2\task2\bin\Debug\net5.0\task2.deps.json
+D:\Учёба\Prog\lab3\task2\task2\task2\bin\Debug\net5.0\task2.runtimeconfig.json
+D:\Учёба\Prog\lab3\task2\task2\task2\bin\Debug\net5.0\task2.runtimeconfig.dev.json
+D:\Учёба\Prog\lab3\task2\task2\task2\bin\Debug\net5.0\task2.dll
+D:\Учёба\Prog\lab3\task2\task2\task2\bin\Debug\net5.0\ref\task2.dll
+D:\Учёба\Prog\lab3\task2\task2\task2\bin\Debug\net5.0\task2.pdb
+D:\Учёба\Prog\lab3\task2\task2\task2\obj\Debug\net5.0\task2.csproj.AssemblyReference.cache
+D:\Учёба\Prog\lab3\task2\task2\task2\obj\Debug\net5.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\Prog\lab3\task2\task2\task2\obj\Debug\net5.0\task2.AssemblyInfoInputs.cache
+D:\Учёба\Prog\lab3\task2\task2\task2\obj\Debug\net5.0\task2.AssemblyInfo.cs
+D:\Учёба\Prog\lab3\task2\task2\task2\obj\Debug\net5.0\task2.csproj.CoreCompileInputs.cache
+D:\Учёба\Prog\lab3\task2\task2\task2\obj\Debug\net5.0\task2.dll
+D:\Учёба\Prog\lab3\task2\task2\task2\obj\Debug\net5.0\ref\task2.dll
+D:\Учёба\Prog\lab3\task2\task2\task2\obj\Debug\net5.0\task2.pdb
+D:\Учёба\Prog\lab3\task2\task2\task2\obj\Debug\net5.0\task2.genruntimeconfig.cache
