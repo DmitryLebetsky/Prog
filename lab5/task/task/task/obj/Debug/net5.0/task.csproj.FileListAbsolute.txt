@@ -1,0 +1,16 @@
+D:\Учёба\Prog\lab5\task\task\task\obj\Debug\net5.0\task.csproj.AssemblyReference.cache
+D:\Учёба\Prog\lab5\task\task\task\obj\Debug\net5.0\task.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\Prog\lab5\task\task\task\obj\Debug\net5.0\task.AssemblyInfoInputs.cache
+D:\Учёба\Prog\lab5\task\task\task\obj\Debug\net5.0\task.AssemblyInfo.cs
+D:\Учёба\Prog\lab5\task\task\task\obj\Debug\net5.0\task.csproj.CoreCompileInputs.cache
+D:\Учёба\Prog\lab5\task\task\task\bin\Debug\net5.0\task.exe
+D:\Учёба\Prog\lab5\task\task\task\bin\Debug\net5.0\task.deps.json
+D:\Учёба\Prog\lab5\task\task\task\bin\Debug\net5.0\task.runtimeconfig.json
+D:\Учёба\Prog\lab5\task\task\task\bin\Debug\net5.0\task.runtimeconfig.dev.json
+D:\Учёба\Prog\lab5\task\task\task\bin\Debug\net5.0\task.dll
+D:\Учёба\Prog\lab5\task\task\task\bin\Debug\net5.0\ref\task.dll
+D:\Учёба\Prog\lab5\task\task\task\bin\Debug\net5.0\task.pdb
+D:\Учёба\Prog\lab5\task\task\task\obj\Debug\net5.0\task.dll
+D:\Учёба\Prog\lab5\task\task\task\obj\Debug\net5.0\ref\task.dll
+D:\Учёба\Prog\lab5\task\task\task\obj\Debug\net5.0\task.pdb
+D:\Учёба\Prog\lab5\task\task\task\obj\Debug\net5.0\task.genruntimeconfig.cache
